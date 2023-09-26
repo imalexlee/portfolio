@@ -1,4 +1,3 @@
-import { heroBottomLeftLinks, heroBottomRightLinks } from "../../data/links";
 import InfiniteBanner from "../molecules/infiniteBanner";
 
 const Hero = () => {
