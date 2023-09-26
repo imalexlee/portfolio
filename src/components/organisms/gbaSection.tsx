@@ -12,7 +12,7 @@ const GbaSection = () => {
         <div className="flex-[2] rounded-tr-2xl rounded-br-2xl overflow-hidden aspect-video">
           {/* add autoplay and loop */}
           <img
-            src="/gba/grandmasFlowers.png"
+            src="gba/grandmasFlowers.png"
             alt="landing screen of Grandmas Flowers game."
             className="object-cover h-full w-full"
           />
