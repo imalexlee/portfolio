@@ -18,14 +18,8 @@ const WebfiSection = () => {
         <div className="flex-1">
           <div className="mx-10">
             <h1 className="text-[2em]">WEBFI // 2023</h1>
-            <p className="text-[1em] font-light leading-[1.1em] max-w-[100ch] mb-3">
-              THESE ARE SOME OF THE MAJOR WORKS I'VE AUTHORED OR PLAYED A HEAVY
-              ROLE IN. THESE ARE SOME OF THE MAJOR WORKS I'VE AUTHORED OR PLAYED
-              A HEAVY ROLE IN. THESE ARE SOME OF THE MAJOR WORKS I'VE AUTHORED
-              OR PLAYED A HEAVY ROLE IN. THESE ARE SOME OF THE MAJOR WORKS I'VE
-              AUTHORED OR PLAYED A HEAVY ROLE IN. THESE ARE SOME OF THE MAJOR
-              WORKS I'VE AUTHORED OR PLAYED A HEAVY ROLE IN. THESE ARE SOME OF
-              THE MAJOR WORKS I'VE AUTHORED OR PLAYED A HEAVY ROLE IN.
+            <p className="text-[1.2em] font-light leading-[1.1em] max-w-[100ch] mb-3">
+              webFi is built to help small to medium sized musicians reach their audience. Developed a waitlist with hundreds of Atlanta based musicians with a closed beta that hosted roughly 2-5 tracks per user. webFi's ELECTROSCAPE event series brought out the city of Atlanta throughout mid-late 2023, selling out consistently with a focus on showcasing the artists on our platform. webFi was evalutaed at $250,000 at the time of exiting in November 2023.
             </p>
             <ExternalLink title="EXPLORE ->" href="https://www.webfi.io/" />
           </div>

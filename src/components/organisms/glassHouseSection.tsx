@@ -12,14 +12,8 @@ const GlassHouseSection = () => {
         <div className="flex-1">
           <div className="mx-10">
             <h1 className="text-[2em]">GLASSHOUSE // 2023</h1>
-            <p className="text-[1em] font-light leading-[1.1em] max-w-[100ch] mb-3">
-              THESE ARE SOME OF THE MAJOR WORKS I'VE AUTHORED OR PLAYED A HEAVY
-              ROLE IN. THESE ARE SOME OF THE MAJOR WORKS I'VE AUTHORED OR PLAYED
-              A HEAVY ROLE IN. THESE ARE SOME OF THE MAJOR WORKS I'VE AUTHORED
-              OR PLAYED A HEAVY ROLE IN. THESE ARE SOME OF THE MAJOR WORKS I'VE
-              AUTHORED OR PLAYED A HEAVY ROLE IN. THESE ARE SOME OF THE MAJOR
-              WORKS I'VE AUTHORED OR PLAYED A HEAVY ROLE IN. THESE ARE SOME OF
-              THE MAJOR WORKS I'VE AUTHORED OR PLAYED A HEAVY ROLE IN.
+            <p className="text-[1.2em] font-light leading-[1.1em] max-w-[100ch] mb-3">
+Evolving digital gallery using the Art Institute of Chicago’s public API. Used Next.js and Typescript to create a web app that updates a digital gallery to match the latest art presented in the AIC database. Presents information about contemporary art stemming from the Victorian era, lets users open artwork to view various details, and contains references to the original art source for more information.
             </p>
             <ExternalLink
               title="EXPLORE ->"

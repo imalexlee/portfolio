@@ -20,18 +20,12 @@ const GbaSection = () => {
         <div className="flex-1">
           <div className="mx-10">
             <h1 className="text-[2em]">GBA // 2023</h1>
-            <p className="text-[1em] font-light leading-[1.1em] max-w-[100ch] mb-3">
-              THESE ARE SOME OF THE MAJOR WORKS I'VE AUTHORED OR PLAYED A HEAVY
-              ROLE IN. THESE ARE SOME OF THE MAJOR WORKS I'VE AUTHORED OR PLAYED
-              A HEAVY ROLE IN. THESE ARE SOME OF THE MAJOR WORKS I'VE AUTHORED
-              OR PLAYED A HEAVY ROLE IN. THESE ARE SOME OF THE MAJOR WORKS I'VE
-              AUTHORED OR PLAYED A HEAVY ROLE IN. THESE ARE SOME OF THE MAJOR
-              WORKS I'VE AUTHORED OR PLAYED A HEAVY ROLE IN. THESE ARE SOME OF
-              THE MAJOR WORKS I'VE AUTHORED OR PLAYED A HEAVY ROLE IN.
+            <p className="text-[1.2em] font-light leading-[1.1em] max-w-[100ch] mb-3">
+              Created 4 video games on the Game Boy Advance using the C programming language. Each game ranged between 2 weeks to 2 months of development time, including a story based horror game, a platformer, a Rally-X clone, and a high-pressure collector game. Each game utilized low-level hardware features such as DMA, audio manipulation, and user-input based CPU interrupts. Available on my GitHub
             </p>
             <ExternalLink
               title="EXPLORE ->"
-              href="https://github.com/imalexlee?tab=repositories&q=&type=public&language=c&sort="
+              href="https://github.com/imalexlee"
             />
           </div>
         </div>
