@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://imalexlee.github.io/<repo>/",
+  "homepage": "https://imalexlee.github.io/portfolio/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
